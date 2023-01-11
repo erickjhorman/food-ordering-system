@@ -1,0 +1,16 @@
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/exception/OrderDomainException.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/entity/Customer.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/valueobject/TrackingId.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/exception/OrderNotFoundException.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/OrderDomainService.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/entity/OrderItem.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/event/OrderPaidEvent.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/event/OrderCancelledEvent.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/event/OrderEvent.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/event/OrderCreatedEvent.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/entity/Restaurant.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/entity/Order.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/valueobject/OrderItemId.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/OrderDomainServiceImpl.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/entity/Product.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/valueobject/StreetAddress.java

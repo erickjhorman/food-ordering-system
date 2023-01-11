@@ -1,0 +1,10 @@
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/PaymentStatus.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/RestaurantApprovalResponseAvroModel.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/CustomerAvroModel.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/OrderApprovalStatus.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/PaymentRequestAvroModel.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/RestaurantApprovalRequestAvroModel.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/PaymentResponseAvroModel.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/Product.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/PaymentOrderStatus.java
+/Users/erickjhormanromerojojoa/Documents/Documents/cqrs/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/RestaurantOrderStatus.java
